@@ -1,0 +1,41 @@
+.card {
+  width: 50%;
+  background-color: #3b3b3b;
+  border-radius: 1rem;
+  padding: 10px;
+}
+
+.card-container {
+  margin: 5px 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+
+.standings-container {
+  margin: 5px 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+
+.home-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-container p {
+  width: 66%;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
